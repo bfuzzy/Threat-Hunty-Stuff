@@ -1,0 +1,1 @@
+"processes WHERE cmdline LIKE '/bin/bash -i >& /dev/tcp/%';"  (Looks for processes that resemble a bash reverse shell)
