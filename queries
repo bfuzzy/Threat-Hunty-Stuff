@@ -1,1 +1,3 @@
 "processes WHERE cmdline LIKE '/bin/bash -i >& /dev/tcp/%';"  (Looks for processes that resemble a bash reverse shell)
+
+Auditd logging | user's actual ID and effective ID are different (Sudo detection, priv escalation)
